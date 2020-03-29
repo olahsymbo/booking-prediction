@@ -25,6 +25,17 @@ Classification is done using class Classifiers.py
 
 - cd into directory 
 
-- run "python3 training_file.py" to train models again
+- run 
 
-- run "python3 testing_file.py" to make predictions.
+```
+python3 training_file.py
+```
+
+to train models again
+
+- run 
+
+```
+python3 testing_file.py
+```
+to make predictions.
