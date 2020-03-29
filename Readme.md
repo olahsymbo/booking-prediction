@@ -23,19 +23,14 @@ Classification is done using class Classifiers.py
 ### Running the codes:
 
 
-- cd into directory 
-
-- run 
+- to train models again, cd into directory and run 
 
 ```
 python3 training_file.py
 ```
-
-to train models again
-
-- run 
+ 
+to make predictions run.
 
 ```
 python3 testing_file.py
 ```
-to make predictions.
