@@ -1,7 +1,7 @@
-DS_Conversion - Booking Prediction
+## Booking Prediction
 
 
-Details:
+### Details
 
 All the source codes are in the data conversion folder. 
 
@@ -20,10 +20,10 @@ Classification is done using class Classifiers.py
 
 
 
-Running the codes:
+### Running the codes:
 
 
-- cd into data_conversion directory 
+- cd into directory 
 
 - run "python3 training_file.py" to train models again
 
