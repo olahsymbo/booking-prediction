@@ -19,7 +19,7 @@ In order to perform hyperparameter selection, we used k-fold cross validation to
   python3 training_file.py
   ```
  
-to make predictions run.
+- to make predictions run.
 
   ```
   python3 testing_file.py
