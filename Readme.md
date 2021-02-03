@@ -1,6 +1,6 @@
 ## Booking Prediction
 
-The aim of this project is to predict whether an online user will make a booking or not based on the online activities of the users.
+The aim of this project is to predict whether an online user will make a booking or not based on the online activities of the user.
 
 
 ### Details
