@@ -3,19 +3,19 @@
 
 ### Details
 
-All the source codes are in the data conversion folder. 
+- All the source codes are in the data conversion folder. 
 
-Training and testing data "data_train" and "data_test" are in "data" folder
+- Training and testing data "data_train" and "data_test" are in "data" folder
 
-The source code used for training is "training_file.py".  
+- The source code used for training is "training_file.py".  
 
-The source code for testing is "testing_file.py". 
+- The source code for testing is "testing_file.py". 
 
-Trained models are inside the "models" folder
+- Trained models are inside the "models" folder
 
-Preprocessing is done using class Preprocess.py
+- Preprocessing is done using class Preprocess.py
 
-Classification is done using class Classifiers.py
+- Classification is done using class Classifiers.py
 
 
 
@@ -25,12 +25,12 @@ Classification is done using class Classifiers.py
 
 - to train models again, cd into directory and run 
 
-```
-python3 training_file.py
-```
+  ```
+  python3 training_file.py
+  ```
  
 to make predictions run.
 
-```
-python3 testing_file.py
-```
+  ```
+  python3 testing_file.py
+  ```
