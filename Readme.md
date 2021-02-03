@@ -1,23 +1,13 @@
 ## Booking Prediction
 
+The aim of this project is to predict whether an online user will make a booking or not based on the online activities of the users.
+
 
 ### Details
 
-- All the source codes are in the data conversion folder. 
+Because the non-booker class is less than booker class we used resampling method to undersample the booker class. Afterward we filter out features with high correlation. And for training Gradient Boosting Classifier (GBC) is used. 
 
-- Training and testing data "data_train" and "data_test" are in "data" folder
-
-- The source code used for training is "training_file.py".  
-
-- The source code for testing is "testing_file.py". 
-
-- Trained models are inside the "models" folder
-
-- Preprocessing is done using class Preprocess.py
-
-- Classification is done using class Classifiers.py
-
-
+In order to perform hyperparameter selection, we used k-fold cross validation to determine the best `max_depth`, `n_estimators`, `min_samples_leaf`.
 
 
 ### Running the codes:
